@@ -35,6 +35,6 @@
     echo "<b>Curso: </b>".$curso."<br>";
     echo "<b>Média: </b>".$media."<br>";
     echo "<b>Presença: </b>".$presenca."%"."<br>";
-    echo "<b>Situação: </b>".$aprovacao;
+    echo "<b>Situação: </b>".$aprovacao."<br>";
 
 ?>
